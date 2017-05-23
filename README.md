@@ -1,2 +1,3 @@
 # hello-world
-for learning git hub
+for learning github
+----------------------
